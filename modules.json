@@ -26,4 +26,6 @@
   ["FacebookModule@GetBirthdayReminders",["birthday","reminders"]],
   ["FacebookModule@StatusUpdate",["facebook","status","update"]],
   ["ZomatoModule@handle",["feeling","hungry","restaurant"]]
+  ["RedditModule@OpenSubreddit", ["Open","sub","read","it", "red", "subreddit"]]
+
 ]
