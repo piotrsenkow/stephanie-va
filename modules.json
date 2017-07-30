@@ -25,9 +25,7 @@
   ["FootballModule@handle",["football","information"]],
   ["FacebookModule@GetBirthdayReminders",["birthday","reminders"]],
   ["FacebookModule@StatusUpdate",["facebook","status","update"]],
-  ["ZomatoModule@handle",["feeling","hungry","restaurant"]]
-  ["RedditModule@ObtainSubreddit", ["show","me","information","sub","read","it", "red", "subreddit"]]
-  ["RedditModule@Submissions", ["read", "it", "sub", "subreddit", "submissions", "top", "controversial", "gilded","hot","trending"]]
-
-
+  ["ZomatoModule@handle",["feeling","hungry","restaurant"]],
+  ["RedditModule@obtain_subreddit",["information", "about", "subreddit"]],
+  ["RedditModule@search_subreddit",["open","subreddit"]]
 ]
